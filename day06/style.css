@@ -1,3 +1,10 @@
-.color {
-    color: blue;
+div{
+    width: 200px;
+    height: 200px;
+}
+
+.box1{
+    background-color: pink;
+    padding: 20px;
+    margin: 20px;
 }
